@@ -5,13 +5,12 @@
 </head>
 <body>
 
-<table border="1" cellpadding="0"
-   cellspacing="0" width="35%" align="center">
+<table border="1" cellspacing="0" width="35%" align="center">
 
   <tr>
     <td width="100%">
-     <p align="center"><b>Convert Celsius to Fahrenheit Jsp</b></p>
-     <form method="POST" action="Celsius-to-Fahrenheit.jsp">
+     <p align="center"><b>Final Project - Devops : Convert Celsius to Fahrenheit Jsp</b></p>
+     <form method="get" action="final_project.jsp">
 
 
         <p align="center"><b>Enter Temprature in Celsius:</b>
@@ -36,5 +35,8 @@
 			}%>
 	  <p>&nbsp;</p></td></tr>
   </table>
+  <center><img src="devops.png" height="500" width="500" alt="devops" ></center>
+
+
 </body>
 </html>
