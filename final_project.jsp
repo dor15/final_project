@@ -35,7 +35,7 @@
 			}%>
 	  <p>&nbsp;</p></td></tr>
   </table>
-  <center><img src="devops.png" height="500" width="500" alt="devops" ></center>
+  <center><img src="devops1.png" height="500" width="500" alt="devops" ></center>
 
 
 </body>
